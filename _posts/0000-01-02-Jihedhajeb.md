@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Surprise mother father. 
 Use the left arrow to go back!
